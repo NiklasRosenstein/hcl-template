@@ -9,6 +9,7 @@ A simple wrapper around the [`hcl-rs`][https://crates.io/crates/hcl-rs] crate to
     $ cat values.yaml
     name: World
     $ hcl-template --template example.tftpl --values values.yaml
+    Hello World!
 
 ## Known limitations
 
