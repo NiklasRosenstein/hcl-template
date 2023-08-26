@@ -1,6 +1,6 @@
 # hcl-template
 
-A simple wrapper around the [`hcl`] create to render HCL template strings.
+A simple wrapper around the [`hcl-rs`][https://crates.io/crates/hcl-rs] crate to render HCL template strings.
 
 ## Usage
 
